@@ -4,7 +4,8 @@
 
 -   chicken peas
 -   lemon
--   something else
+-   olive oil
+-   something else (again)
 
 ### Instructions
 
